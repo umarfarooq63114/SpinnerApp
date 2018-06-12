@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string name="country_prompt">Choose a country</string>
+
+
+    <string-array name="defects_arrays">
+        <item>Screen Broken</item>
+        <item>Mic Issue</item>
+        <item>On/Off issue</item>
+        <item>Battery Issue</item>
+        <item>Other Internal Issue</item>
+    </string-array>
+</resources>
